@@ -295,7 +295,7 @@ public partial class FormCheatLoader : MetroForm
 
     private void gunaButton6_Click(object sender, EventArgs e)
     {
-        Process.Start("https://github.com/GabryB03/OpenMoonLoader/");
+        Process.Start("https://github.com/ZygoteCode/OpenMoonLoader/");
     }
 
     public void Waiting()
