@@ -286,7 +286,7 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(283, 17);
             this.label2.TabIndex = 40;
-            this.label2.Text = "Copyright © 2023, GabryB03. All rights reserved.";
+            this.label2.Text = "Copyright © 2023, ZygoteCode. All rights reserved.";
             this.label2.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             // 
             // siticoneCheckBox2
@@ -592,7 +592,7 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.State = MetroSuite.MetroForm.FormState.Custom;
             this.Style = MetroSuite.Design.Style.Dark;
-            this.Text = "OpenMoonLoader | Made by https://github.com/GabryB03/";
+            this.Text = "OpenMoonLoader | Made by https://github.com/ZygoteCode/";
             ((System.ComponentModel.ISupportInitialize)(this.fastColoredTextBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
