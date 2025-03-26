@@ -85,7 +85,7 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(371, 17);
             this.label2.TabIndex = 6;
-            this.label2.Text = "Copyright © 2023, GabryB03. All rights reserved.";
+            this.label2.Text = "Copyright © 2023, ZygoteCode. All rights reserved.";
             this.label2.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             // 
             // timer1
@@ -160,7 +160,7 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.State = MetroSuite.MetroForm.FormState.Custom;
             this.Style = MetroSuite.Design.Style.Dark;
-            this.Text = "OpenMoonLoader | Made by https://github.com/GabryB03/";
+            this.Text = "OpenMoonLoader | Made by https://github.com/ZygoteCode/";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FormCheatLoader_FormClosing);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
